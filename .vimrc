@@ -2,6 +2,8 @@
 
 set tabstop=4
 set shiftwidth=4
+set softtabstop=4
+set expandtab		" mostly for Elm, which is fussy.
 colorscheme elflord
 
 " sensible.vim - Defaults everyone can agree on
