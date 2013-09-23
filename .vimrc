@@ -6,6 +6,8 @@ set softtabstop=4
 set expandtab		" mostly for Elm, which is fussy.
 colorscheme elflord
 
+au BufNewFile,BufRead *.elm set filetype=haskell
+
 " sensible.vim - Defaults everyone can agree on
 " Maintainer:   Tim Pope <http://tpo.pe/>
 " Version:      1.0
