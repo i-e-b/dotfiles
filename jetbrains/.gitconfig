@@ -1,0 +1,9 @@
+[user]
+	email = iain.ballard@
+	name = Iain Ballard
+[push]
+	default = current
+[merge]
+	tool = meld
+[gui]
+	diffopts = --ignore-all-space
